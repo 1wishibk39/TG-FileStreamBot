@@ -1,1 +1,1 @@
-worker: python -m mega
+worker: python -m WebStreamer

@@ -40,9 +40,7 @@
         },
         "PORT": {
             "description": "Setting this to ANYTHING will make the bot use MongoDB Atlas."
-        },
-        "FQDN": {
-            "description": "Watch this video to understand what database is: https://youtu.be/vgzMacnI5Z8"
+      
         },
         "HAS_SSL": {
             "description": "Watch this video to understand what database is: https://youtu.be/vgzMacnI5Z8"
